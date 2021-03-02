@@ -1,17 +1,21 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App';
-import reportWebVitals from './reportWebVitals';
+// 1 - KUllANACAGIMIZ LIBARARY LERI HER ZAMAN IMPORT EDERIZ
+import React from 'react'
+import ReactDOM from 'react-dom'
 
-ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
-  document.getElementById('root')
-);
 
-// If you want to start measuring performance in your app, pass a function
-// to log results (for example: reportWebVitals(console.log))
-// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
-reportWebVitals();
+// 2 - COMPONENT IN KENDISINI OLUSTURUYORUZ
+const App = () => {
+  return(
+    <div>
+      <h1>Hi React</h1>
+    </div>
+  )
+}
+
+
+// 3 - EKRANDA GOSTERIYORUZ // GOSTERILECEK YERE EXPORT ILE GONDERIYORUZ
+
+ReactDOM.render(<App/>, document.querySelector("#root"))
+
+//Eger projenizde npm kullaniyorsaniz her zaman npm kullanin, yarn kullaniyorsaniz yarn kullanin
+
