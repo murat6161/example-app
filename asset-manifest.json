@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.js": "/murat6161/example-app.git/static/js/main.e2fb087c.chunk.js",
-    "main.js.map": "/murat6161/example-app.git/static/js/main.e2fb087c.chunk.js.map",
-    "runtime-main.js": "/murat6161/example-app.git/static/js/runtime-main.3b03aa72.js",
-    "runtime-main.js.map": "/murat6161/example-app.git/static/js/runtime-main.3b03aa72.js.map",
-    "static/js/2.d2593b10.chunk.js": "/murat6161/example-app.git/static/js/2.d2593b10.chunk.js",
-    "static/js/2.d2593b10.chunk.js.map": "/murat6161/example-app.git/static/js/2.d2593b10.chunk.js.map",
-    "index.html": "/murat6161/example-app.git/index.html",
-    "static/js/2.d2593b10.chunk.js.LICENSE.txt": "/murat6161/example-app.git/static/js/2.d2593b10.chunk.js.LICENSE.txt"
+    "main.js": "/example-app/static/js/main.e2fb087c.chunk.js",
+    "main.js.map": "/example-app/static/js/main.e2fb087c.chunk.js.map",
+    "runtime-main.js": "/example-app/static/js/runtime-main.863898a5.js",
+    "runtime-main.js.map": "/example-app/static/js/runtime-main.863898a5.js.map",
+    "static/js/2.d2593b10.chunk.js": "/example-app/static/js/2.d2593b10.chunk.js",
+    "static/js/2.d2593b10.chunk.js.map": "/example-app/static/js/2.d2593b10.chunk.js.map",
+    "index.html": "/example-app/index.html",
+    "static/js/2.d2593b10.chunk.js.LICENSE.txt": "/example-app/static/js/2.d2593b10.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.3b03aa72.js",
+    "static/js/runtime-main.863898a5.js",
     "static/js/2.d2593b10.chunk.js",
     "static/js/main.e2fb087c.chunk.js"
   ]
