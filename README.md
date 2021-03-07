@@ -1,5 +1,5 @@
 # ChangeLog
-```yarn add --D gh-pages```
+```yarn add -D gh-pages```
 
 Then scripts added to package.json
 "predeploy" : "npm run build"
