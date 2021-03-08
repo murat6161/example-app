@@ -8,6 +8,7 @@ const App = () => {
   return(
     <div>
       <h1>Hi React</h1>
+      <h2>Hi World</h2>
     </div>
   )
 }
